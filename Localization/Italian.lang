@@ -33,4 +33,10 @@ LAuthorizationAppMarketB = "Esci",
 LAuthorizationAppMarketA = "Sei uscito correttamente dall'App Market!",
 trash = "Empty trash",
 trasht = "Succede che ci dimentichiamo di cancellare il contenuto della spazzatura e possono essere conservati per molto tempo..",
-}
+katalogt = "Oops .. Program only for Russian",
+katalogb = "Oops .. Program only for Russian",
+kataloga = "Oops .. Program only for Russian",
+katalog3d = "Oops .. Program only for Russian",
+ControlEFIt = "Succede che dopo molti salvataggi, lo spazio su disco diventa piccolo.",
+ControlEFIb = "Rimuovi tutto il firmware",
+} 
